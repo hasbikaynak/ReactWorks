@@ -1,0 +1,18 @@
+-> command for getting back the node_modules folder:
+    npm install
+
+-> how we can put images in our components
+
+html to jsx
+
+-> There are 2 types of routing in reactjs
+    -> Browser routing (using the npm package that is: react-router-dom)
+    -> History routing
+
+-> Concepts of react-router-dom
+    <Router></Router> (it acts as a container/parent tag for establishing the routing)
+    <Routes></Routes>  (it start building the routing)
+   <Route></Route>   (it defines the route string for every individual component)
+    <Link></Link>   (it helps us to get the route on any link)
+
+-> If you want to apply the styling as internal then you can use Styled Component package/concept
